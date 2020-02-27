@@ -1,6 +1,10 @@
 # imc_flutter
 
-A new Flutter project.
+Aplicativo para de estudo do curso 'Criação de Apps Android e iOS com Flutter - Crie 16 Apps'.
+
+Aplicativo com a ideia de calcular o IMC da pessoa.
+
+Desenvolvido em: Flutter
 
 ## Getting Started
 
